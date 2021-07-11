@@ -24,7 +24,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Man nehme einen 5v Netzteil mit genügend Watt (je nach konsum der LEDs und ESP32) und einen Anschluss. (z.B.: https://www.adafruit.com/product/276 &amp; https://www.adafruit.com/product/368)<br>Ein LED Strip (hier im 90 Grad Winkel von Adafruit https://www.adafruit.com/product/3635).<br>Einen Kondensator für das Signal zwischen Microcontroller zum LED-Strip.<br>Ein ESP32 auf dem man diesen Code drauf spielen kann und voilà :-)<br><a href="https://github.com/oli4wolf/sonnenuhr/blob/main/esp32_RESTClient.ino" target="_blank" rel="noreferrer noopener">https://github.com/oli4wolf/sonnenuhr/tree/main</a></p>
+<p>Man nehme einen 5v Netzteil mit genügend Watt (je nach konsum der LEDs und ESP32) und einen Anschluss. (z.B.: https://www.adafruit.com/product/276 &amp; https://www.adafruit.com/product/368)<br>Ein LED Strip (hier im 90 Grad Winkel von Adafruit https://www.adafruit.com/product/3635).<br>Einen Kondensator um die Stomzufuhr zu stabilisieren.<br>Ein ESP32 auf dem man diesen Code drauf spielen kann und voilà :-)<br><a href="https://github.com/oli4wolf/sonnenuhr/blob/main/esp32_RESTClient.ino" target="_blank" rel="noreferrer noopener">https://github.com/oli4wolf/sonnenuhr/tree/main</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
