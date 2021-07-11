@@ -1,4 +1,4 @@
-<h1> Eine etwas andere Sonnenuhr </h1>
+<h1> Eine etwas andere Sonnenuhr. </h1>
 <!-- wp:image {"align":"center","id":159,"width":378,"height":566,"sizeSlug":"large","linkDestination":"none"} -->
 <div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="http://www.owolf.ch/wp-content/uploads/2021/06/IMG_20210611_1734529-683x1024.jpg" alt="" class="wp-image-159" width="378" height="566"/><figcaption>Finale</figcaption></figure></div>
 <!-- /wp:image -->
